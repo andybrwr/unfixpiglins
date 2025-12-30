@@ -1,4 +1,4 @@
-name: PiglinFix
+name: UnfixPiglins
 version: '1.0.0-SNAPSHOT'
 main: dev.brwr.piglinfix.PiglinFixPlugin
 description: Bring Zombified Piglin XP back
